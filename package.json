@@ -31,6 +31,6 @@
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.1",
     "just-extend": "^4.1.1",
-    "merge": "^1.2.1"
+    "merge": "^2.1.1"
   }
 }
